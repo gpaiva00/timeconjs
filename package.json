@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gpaiva00/timeconjs/issues"
   },
-  "homepage": "https://github.com/gpaiva00/timeconjs#readme"
+  "homepage": "https://github.com/gpaiva00/timeconjs#readme",
+  "publishConfig": {
+    "@gpaiva00:registry": "https://npm.pkg.github.com"
+  }
 }
