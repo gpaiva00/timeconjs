@@ -1,0 +1,19 @@
+{
+  "name": "@gpaiva00/timeconjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpaiva00/timeconjs.git"
+  },
+  "author": "gabriel paiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpaiva00/timeconjs/issues"
+  },
+  "homepage": "https://github.com/gpaiva00/timeconjs#readme"
+}
